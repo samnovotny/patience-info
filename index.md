@@ -11,15 +11,25 @@ Bug, question or suggestion? Email **samnovotny@gmail.com**. Please include your
 
 ## Frequently asked questions
 
-**Is it really free?** Yes. There are no ads, no in-app purchases, no subscriptions and no hidden extras, now or in future versions.
+**Is it really free?**
 
-**How do I move cards?** Drag a card (or a run of cards) to where you want it, or tap a card and it goes to its foundation, or to the first column that will take it. Tap the stock to draw.
+- Yes. There are no ads, no in-app purchases, no subscriptions and no hidden extras, now or in future versions.
 
-**How do I undo a move?** Use the undo button in the toolbar (⌘Z on a keyboard). Undo is unlimited.
+**How do I move cards?**
 
-**Where are hints?** Hints are off by default. Turn them on in Settings (the "…" menu) and a lightbulb button appears.
+- Drag a card (or a run of cards) to where you want it, or tap a card and it goes to its foundation, or to the first column that will take it. Tap the stock to draw.
 
-**What is a deal number?** Every game is identified by a number. Enter the same number in the New Game screen to replay a deal or play the same one as a friend. "Only winnable deals" gives you games the solver has found a win for.
+**How do I undo a move?**
+
+- Use the undo button in the toolbar (⌘Z on a keyboard). Undo is unlimited.
+
+**Where are hints?**
+
+- Hints are off by default. Turn them on in Settings (the "…" menu) and a lightbulb button appears.
+
+**What is a deal number?**
+
+- Every game is identified by a number. Enter the same number in the New Game screen to replay a deal or play the same one as a friend. "Only winnable deals" gives you games the solver has found a win for.
 
 **Can I turn the sound and haptics on?**. 
 
