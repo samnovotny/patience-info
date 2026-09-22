@@ -21,13 +21,21 @@ Bug, question or suggestion? Email **samnovotny@gmail.com**. Please include your
 
 **What is a deal number?** Every game is identified by a number. Enter the same number in the New Game screen to replay a deal or play the same one as a friend. "Only winnable deals" gives you games the solver has found a win for.
 
-**Can I turn the sound and haptics on?** Yes, in Settings. They are off by default.
+**Can I turn the sound and haptics on?**. 
 
-**Is my game saved?** Automatically, after every move. Close the app and pick up later.
+- Yes, in Settings. They are off by default.
 
-**Can I sync between devices?** Not currently. Your data is stored only on the device you play on.
+**Is my game saved?** 
 
-**Can I reset my statistics?** Statistics can be cleared from the Statistics screen by deleting and reinstalling the app.
+- Automatically, after every move. Close the app and pick up later.
+
+**Can I sync between devices?**
+
+- Not currently. Your data is stored only on the device you play on.
+
+**Can I reset my statistics?**
+
+- Statistics can be cleared from the Statistics screen by deleting and reinstalling the app.
 
 # Privacy Policy
 **Last Updated: September 2026**
