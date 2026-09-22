@@ -1,4 +1,4 @@
-# Welcome to the App Support & Privacy Center
+# Welcome to the Support Center
 
 Thank you for using our Patience. Below you will find our official Support information and Privacy Policy.
 
