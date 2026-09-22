@@ -1,3 +1,7 @@
+# Welcome to the App Support & Privacy Center
+
+Thank you for using our Patience. Below you will find our official Support information and Privacy Policy.
+
 # Patience Support
 
 Patience is a free Klondike solitaire game for iPhone and iPad. It's free, has no ads and no in-app purchases, and that isn't going to change.
@@ -25,8 +29,16 @@ Bug, question or suggestion? Email **samnovotny@gmail.com**. Please include your
 
 **Can I reset my statistics?** Statistics can be cleared from the Statistics screen by deleting and reinstalling the app.
 
-## Privacy and data
-Patience collects no data of any kind. Everything stays on your device and is removed if you delete the app. See the full [Privacy Policy]([privacy URL]).
+## Privacy Policy
+**Last Updated: September 2026**
+
+Your privacy is paramount. This Privacy Policy explains how our Patience application (the "App") handles it.
+
+### 1. No Data Collection or Tracking
+The App does not collect, track, store, harvest, or share any of your data. The App does not connect to external servers to eliminate the possibility of data leakage.
+
+### 2. Play statistics
+The App captures and stores performance statistics on device. These are not linked to the device or any person, and are not exported from the device.
 
 ## Accessibility
 Patience supports VoiceOver, Dynamic Type for interface text, Reduce Motion and Increased Contrast. If something doesn't work well for you, please get in touch.
