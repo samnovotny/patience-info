@@ -40,5 +40,5 @@ The App does not collect, track, store, harvest, or share any of your data. The 
 ### 2. Play statistics
 The App captures and stores performance statistics on device. These are not linked to the device or any person, and are not exported from the device.
 
-## Accessibility
+# Accessibility
 Patience supports VoiceOver, Dynamic Type for interface text, Reduce Motion and Increased Contrast. If something doesn't work well for you, please get in touch.
