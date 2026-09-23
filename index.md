@@ -47,15 +47,14 @@ Bug, question or suggestion? Email **samnovotny@gmail.com**. Please include your
 
 - Statistics can be cleared from the Statistics screen by deleting and reinstalling the app.
 
-# Privacy Policy
-**Last Updated: September 2026**
+# Privacy Policy - **Last Updated: September 2026**
 
 Your privacy is paramount. This Privacy Policy explains how our Patience application (the "App") handles it.
 
-### 1. No Data Collection or Tracking
+### No Data Collection or Tracking
 The App does not collect, track, store, harvest, or share any of your data. The App does not connect to external servers to eliminate the possibility of data leakage.
 
-### 2. Play statistics
+### Play statistics
 The App captures and stores performance statistics on device. These are not linked to the device or any person, and are not exported from the device.
 
 # Accessibility
