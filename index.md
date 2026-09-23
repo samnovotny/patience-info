@@ -1,6 +1,6 @@
 # Welcome to the Patience Support Center
 
-Thank you for using our Patience. Below you will find our official Support information and Privacy Policy.
+Thank you for using our Patience. Below you will find our official ***Support information*** and ***Privacy Policy***.
 
 # Support
 
@@ -57,7 +57,7 @@ Your privacy is paramount. This Privacy Policy explains how our Patience applica
 The App does not collect, track, store, harvest, or share any of your data. The App does not connect to external servers to eliminate the possibility of data leakage.
 
 ### Play statistics
-The App captures and stores performance statistics on device. These are not linked to the device or any person, and are not exported from the device.
+The App captures and stores performance statistics for the ***current game only***. These are not linked to the device or any person, and are not exported from the device.
 
 # Accessibility
 Patience supports VoiceOver, Dynamic Type for interface text, Reduce Motion and Increased Contrast. If something doesn't work well for you, please get in touch.
