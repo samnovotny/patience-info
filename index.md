@@ -47,7 +47,9 @@ Bug, question or suggestion? Email **samnovotny@gmail.com**. Please include your
 
 - Statistics can be cleared from the Statistics screen by deleting and reinstalling the app.
 
-# Privacy Policy - **Last Updated: September 2026**
+# Privacy Policy
+
+**Last Updated: September 2026**
 
 Your privacy is paramount. This Privacy Policy explains how our Patience application (the "App") handles it.
 
