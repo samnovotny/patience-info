@@ -1,8 +1,8 @@
-# Welcome to the Support Center
+# Welcome to the Patience Support Center
 
 Thank you for using our Patience. Below you will find our official Support information and Privacy Policy.
 
-# Patience Support
+# Support
 
 Patience is a free Klondike solitaire game for iPhone and iPad. It's free, has no ads and no in-app purchases, and that isn't going to change.
 
